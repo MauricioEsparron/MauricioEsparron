@@ -24,17 +24,7 @@
 - :boom: You can visit [MY WEBSITE](https://#).
 <br>
 
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br><br>
-
-
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
