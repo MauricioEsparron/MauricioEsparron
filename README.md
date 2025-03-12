@@ -43,7 +43,6 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MauricioEsparron&theme=dark&show_icons=true&count_private=true" />
-  [![Anurag's GitHub stats]()](https://github.com/MauricioEsparron/github-readme-stats)
   <br></br>
 ---
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-swart-psi.vercel.app?user=MauricioEsparron&theme=dark" alt="GitHub Streak" /></a>  
@@ -51,7 +50,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MauricioEsparron&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
