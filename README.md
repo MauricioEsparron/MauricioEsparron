@@ -43,6 +43,7 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioEsparron)](https://github.com/MauricioEsparron/github-readme-stats)
   <br></br>
 ---
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-swart-psi.vercel.app?user=MauricioEsparron&theme=dark" alt="GitHub Streak" /></a>  
